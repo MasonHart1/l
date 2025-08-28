@@ -1,0 +1,15 @@
+C:\Users\mason\OneDrive\Documents\GitHub\l\obj\Debug\net9.0\l.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason\OneDrive\Documents\GitHub\l\obj\Debug\net9.0\l.AssemblyInfoInputs.cache
+C:\Users\mason\OneDrive\Documents\GitHub\l\obj\Debug\net9.0\l.AssemblyInfo.cs
+C:\Users\mason\OneDrive\Documents\GitHub\l\obj\Debug\net9.0\l.csproj.CoreCompileInputs.cache
+C:\Users\mason\OneDrive\Documents\GitHub\l\obj\Debug\net9.0\l.sourcelink.json
+C:\Users\mason\OneDrive\Documents\GitHub\l\bin\Debug\net9.0\l.exe
+C:\Users\mason\OneDrive\Documents\GitHub\l\bin\Debug\net9.0\l.deps.json
+C:\Users\mason\OneDrive\Documents\GitHub\l\bin\Debug\net9.0\l.runtimeconfig.json
+C:\Users\mason\OneDrive\Documents\GitHub\l\bin\Debug\net9.0\l.dll
+C:\Users\mason\OneDrive\Documents\GitHub\l\bin\Debug\net9.0\l.pdb
+C:\Users\mason\OneDrive\Documents\GitHub\l\obj\Debug\net9.0\l.dll
+C:\Users\mason\OneDrive\Documents\GitHub\l\obj\Debug\net9.0\refint\l.dll
+C:\Users\mason\OneDrive\Documents\GitHub\l\obj\Debug\net9.0\l.pdb
+C:\Users\mason\OneDrive\Documents\GitHub\l\obj\Debug\net9.0\l.genruntimeconfig.cache
+C:\Users\mason\OneDrive\Documents\GitHub\l\obj\Debug\net9.0\ref\l.dll
